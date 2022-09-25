@@ -1,9 +1,9 @@
 ```python
-txt = "Hello World" [::-1]
+txt = "1234abcd" [::-1]
 print(txt)
 ```
 
-    dlroW olleH
+    dcba4321
     
 
 
