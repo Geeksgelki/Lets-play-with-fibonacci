@@ -15,9 +15,9 @@ def string_test(s):
 string_test('The quick Brown Fox')
 ```
 
-    Original String :  The quick Brown Fox
+    Original String :  The quick Brow Fox
     No. of Upper case characters :  3
-    No. of Lower case Characters :  13
+    No. of Lower case Characters :  12
     
 
 
